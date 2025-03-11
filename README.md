@@ -1,7 +1,3 @@
-Great choice! Using a **private GitHub repository** with a well-structured `README.md` and organized logs will help maintain clarity and track progress efficiently. Here's how you can format it:  
-
----
-
 ### **📌 README.md Structure**  
 Your `README.md` should give an overview of the Captain’s Log and guide how to navigate it.  
 
@@ -103,8 +99,4 @@ Example: `logs/decisions/database-migration.md`
 ### **📌 How to Maintain the Log Efficiently**
 - **Automate timestamps**: Use VS Code snippets or GitHub Actions to automate log creation.  
 - **Use Commit Messages**: Write meaningful commit messages like `"docs: Add log for 2025-03-04"`  
-- **Review Periodically**: At the end of each month or quarter, review past logs to track progress.  
-
----
-
-This approach keeps your logs clean, organized, and useful for documentation. Let me know if you want an actual GitHub template for this setup!
+- **Review Periodically**: At the end of each month or quarter, review past logs to track progress.
